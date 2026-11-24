@@ -15,4 +15,4 @@
  Windows 10  11 (потом будет больше ОС)
  .NET 8 SDK (`net8.0-windows`)
  Переменная окружения `GEMINI_API_KEY` с вашим ключом Gemini API
- API ключ с сайта GEMINI
+ 
